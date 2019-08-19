@@ -10,10 +10,7 @@
 # ♻  :recycle: Refactoring code.
 # 🚨  :rotating_light: Removing linter warnings.
 # 🚧  :construction: Work in progress.
-# 💩  :hankey: Writing bad code that needs to be improved.
 # 🚑  :ambulance: Critical hotfix.
-# ➕  :heavy_plus_sign: Adding a dependency.
-# ➖  :heavy_minus_sign: Removing a dependency.
 # 🔊  :loud_sound: Adding logs.
 # 🔇  :mute: Removing logs.
 # ✅  :white_check_mark: Adding tests.
